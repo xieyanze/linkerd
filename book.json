@@ -14,9 +14,7 @@
         "readme" : "README_gitbook.md"
     },
   "plugins": [
-    "toggle-chapters",
     "edit-link", 
-    "etoc",
     "back-to-top-button",
     "tags"
   ],
