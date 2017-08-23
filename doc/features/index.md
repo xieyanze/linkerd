@@ -20,4 +20,6 @@
 
 - [gRPC](grpc.md)：linkerd 支持 HTTP/2 和 TLS，允许它路由 gRPC 请求，支持高级 RPC 机制，如双向流，流程控制和结构化数据负载。
 
-- [分布式跟踪和仪器仪表](distributed-tracing-and-instrumentation.md)：linkerd 支持分布式跟踪和度量仪器，可以提供跨越所有服务的统一的可观察性。
+- [分布式跟踪](distributed-tracing-and-instrumentation.md)：linkerd 支持分布式跟踪和度量仪器，可以提供跨越所有服务的统一的可观察性。
+
+- [仪器仪表](instrumentation.md): linkerd 支持分布式跟踪和度量仪器，可以提供跨越所有服务的统一的可观察性。
