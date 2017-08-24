@@ -40,5 +40,5 @@ linkerd不加修改的传递下游服务生成的错误。
 
 要调试此错误，可以使用 linkerd 管理仪表板中的“dtab playground”。只需在浏览器中访问`<linkerd host>:9990/delegator`。此UI将向您显示 dtab 和 namers 如何转换请求的名称的每个步骤。
 
-（有关 linkerd 如何处理名称的更多信息，请参阅 [路由](../in-depth/routing.md) 页面。）
+（有关 linkerd 如何处理名称的更多信息，请参阅 [路由](../advanced/routing.md) 页面。）
 
