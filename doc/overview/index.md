@@ -1,11 +1,37 @@
-# 概述
+# 介绍
 
-本部分文档旨在让您熟悉 linkerd 的基础知识，并为您提供开始使用它所需的知识。如果你比较急，我们建议您跳到"入门"部分。介绍分为以下几个部分：
+## Linkerd是什么?
 
-- [linkerd是什么](what-is-linkerd.md)：描述 linkerd 是什么，并提供为什么它以这种方式工作的背景。
+Linkerd 是开源网络代理，设计为以服务网格部署：用于管理，控制和监控应用程序内的服务与服务间通讯的专用层。
 
-- [常见问题](faq.md)：提问（和解答）一些最难的问题，比如如何发音“linkerd”。
+[阅读更多 »](what-is-linkerd.md)
 
-- [获取帮助](help.md)：提供当您遇到任何问题时可以使用的资源。
+<img src="images/linkerd-logo-gradient.svg" width="20%" height="20%">
 
-- [外部资源](external-resources.md)：在实践中的目录博客和谈话，以最终用户和开发者的视角。
+## Linkerd能做什么?
+
+Linkerd 为您的应用程序增加了可视性，控制和可靠性, 它使用了各式各样的强大技术：熔断，延迟感知负载均衡，最终一致（“咨询”）服务发现，截止时间传播以及跟踪和仪器仪表。
+
+<img src="images/what_it_does.svg" width="50%" height="50%">
+
+## 为什么需要服务网格?
+
+服务交互的方式是应用程序运行时行为的关键部分。没有一致的控制和可见性层，运行时性能可能难以测量和诊断，而部分故障可能传播以至于拖累整个应用程序。
+
+[阅读更多 »](https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
+
+此微型仪表板显示对服务的请求，在其两个客户端上进行负载平衡。
+
+<img src="images/service-mesh-2.png" width="50%" height="50%">
+
+![](images/service-mesh.jpg)
+
+> 译者注： 由于 gitbook 无法支持原文的动态图形，所有上图为简单截图，可以浏览 [原页面](https://linkerd.io/overview/) 查看动态图形。
+
+## 开始
+
+在短短几分钟内获取 linkerd 并运行。本节关注在常见环境中运行 linkerd。
+
+请选择一个环境开始：
+
+[<img src="../getting-started/images/get_started_local.png" width="30%" height="30%">](../getting-started/locally.md)<img src="../getting-started/images/get_started_istio.png" width="30%" height="30%"><img src="../getting-started/images/get_started_dcos.png" width="30%" height="30%"><img src="../getting-started/images/get_started_docker.png" width="30%" height="30%"><img src="../getting-started/images/get_started_istio.png" width="30%" height="30%"><img src="../getting-started/images/get_started_ecs.png" width="30%" height="30%">
