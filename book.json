@@ -18,8 +18,7 @@
     "splitter",
     "-sharing",
     "edit-link", 
-    "back-to-top-button",
-    "tags"
+    "back-to-top-button"
   ],
   "pluginsConfig": {
     "edit-link": {
