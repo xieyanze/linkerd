@@ -10,7 +10,7 @@ Linkerd 是开源网络代理，设计为以服务网格部署：用于管理，
 
 ## Linkerd能做什么?
 
-Linkerd 为您的应用程序增加了可视性，控制和可靠性, 它使用了各式各样的强大技术：熔断，延迟感知负载均衡，最终一致（“咨询”）服务发现，截止时间传播以及跟踪和仪器仪表。
+Linkerd 为您的应用程序增加了可视性，控制和可靠性, 它使用了各式各样的强大技术：熔断，延迟感知负载均衡，最终一致服务发现，截止时间传播以及跟踪和仪器仪表。
 
 <img src="images/what_it_does.svg" width="50%" height="50%">
 
@@ -34,4 +34,4 @@ Linkerd 为您的应用程序增加了可视性，控制和可靠性, 它使用�
 
 请选择一个环境开始：
 
-[<img src="../getting-started/images/get_started_local.png" width="30%" height="30%">](../getting-started/locally.md)<img src="../getting-started/images/get_started_istio.png" width="30%" height="30%"><img src="../getting-started/images/get_started_dcos.png" width="30%" height="30%"><img src="../getting-started/images/get_started_docker.png" width="30%" height="30%"><img src="../getting-started/images/get_started_istio.png" width="30%" height="30%"><img src="../getting-started/images/get_started_ecs.png" width="30%" height="30%">
+[<img src="../getting-started/images/get_started_local.png" width="30%" height="30%">](../getting-started/locally.md)[<img src="../getting-started/images/get_started_kubernetes.png" width="30%" height="30%">](../getting-started/k8s.md)[<img src="../getting-started/images/get_started_istio.png" width="30%" height="30%">](../getting-started/istio.md)[<img src="../getting-started/images/get_started_dcos.png" width="30%" height="30%">](../getting-started/dcos.md)[<img src="../getting-started/images/get_started_istio.png" width="30%" height="30%">](../getting-started/istio.md)[<img src="../getting-started/images/get_started_ecs.png" width="30%" height="30%">](../getting-started/ecs.md)

@@ -1,6 +1,6 @@
 # 官方文档
 
-> 注: 原英文文档地址: https://linkerd.io/docs/
+> 译者注: 原英文文档地址为 https://linkerd.io/docs/
 
 欢迎来到 linkerd!
 
@@ -18,7 +18,7 @@
 
 - 支持：FAQ等支持内容
 
-- 企业：列出为 linksd 提供商业支持的公司。
+- 企业：列出为 linkerd 提供商业支持的公司。
 
 
 
