@@ -54,10 +54,13 @@ Linkerd 是一个提供弹性云端原生应用服务网格的开源项目。其
         * [联系我们](doc/support/contact.md)
     * [企业]()
         * [企业](doc/enterprise/index.md)
+* [官方博客](blog/index.md)
+	* [超越轮循:为了延迟的负载均衡](blog/beyond-round-robin-load-balancing-for-latency.md)
+    * [LINKERD：用于微服务的TWITTER风格可操作性](blog/linkerd-twitter-style-operability-for-microservices.md)
 
 后续计划中的内容：
 
-- 官方网站的博客文章
+- 官方网站的博客文章(进行中)
 - linkerd 配置文档
 - namerd 配置文档
 
