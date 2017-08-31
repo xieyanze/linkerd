@@ -7,6 +7,11 @@
     * [入门]()
         * [概况](doc/getting-started/index.md)
         * [本地运行](doc/getting-started/locally.md)
+        * [用docker运行](doc/getting-started/docker.md)
+        * [在kubernetes中运行](doc/getting-started/k8s.md)
+        * [在DC/OS中运行](doc/getting-started/dcos.md)
+        * [用istio运行](doc/getting-started/istio.md)
+        * [在ECS中运行](doc/getting-started/ecs.md)
         * [管理](doc/getting-started/admin.md)
     * [特性]()
         * [概况](doc/features/index.md)
@@ -39,6 +44,9 @@
         * [联系我们](doc/support/contact.md)
     * [企业]()
     	* [企业](doc/enterprise/index.md)
+* [官方博客](blog/index.md)
+	* [超越轮循:为了延迟的负载均衡](blog/beyond-round-robin-load-balancing-for-latency.md)
+    * [LINKERD：用于微服务的TWITTER风格可操作性](blog/linkerd-twitter-style-operability-for-microservices.md)
 * [全文标签总览](tags.md)
 
 
